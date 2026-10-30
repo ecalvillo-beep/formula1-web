@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Novedades Fórmula 1</title>
+    <link>https://ecalvillo-beep.github.io/formula1-web/</link>
+    <description>Novedades del sitio web de Fórmula 1</description>
+    <language>es-ES</language>
+
+    <item>
+      <title>Publicada la página de pilotos</title>
+      <link>https://ecalvillo-beep.github.io/formula1-web/pilotos.html</link>
+      <description>Información sobre los pilotos más destacados de Fórmula 1.</description>
+      <pubDate>Thu, 29 Oct 2026 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Publicada la página de equipos</title>
+      <link>https://ecalvillo-beep.github.io/formula1-web/equipos.html</link>
+      <description>Información sobre los equipos más importantes de Fórmula 1.</description>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
